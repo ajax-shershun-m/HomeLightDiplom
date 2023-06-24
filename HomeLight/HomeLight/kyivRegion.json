@@ -1,0 +1,941 @@
+[
+  [
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "DEFINITE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 2,
+        "end": 4,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "POSSIBLE_OUTAGE"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "type": "DEFINITE_OUTAGE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "type": "POSSIBLE_OUTAGE"
+      }
+    ]
+  ]
+]
